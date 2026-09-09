@@ -57,7 +57,7 @@ prática vai te exigir.
 
 ## Parte 2 — Criando as tabelas (`CREATE TABLE`)
 
-Agora, no MySQL (Workbench, phpMyAdmin ou o terminal), rode:
+Agora, numa aba de SQL do MySQL Workbench, rode:
 
 ```sql
 CREATE DATABASE loja;
