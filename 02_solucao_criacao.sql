@@ -5,7 +5,7 @@
 -- digitar os INSERTs você mesmo — rodar isto direto pula o aprendizado.
 -- Use para: (a) conferir o que você fez, ou (b) resetar do zero se travou.
 --
--- Escrito para MySQL / MariaDB (funciona também no phpMyAdmin e no Workbench).
+-- Escrito para MySQL, para rodar numa aba de SQL do MySQL Workbench.
 -- Veja 00_como_instalar.md para o passo a passo de como instalar e rodar isso.
 -- ============================================
 

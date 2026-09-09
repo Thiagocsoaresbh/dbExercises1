@@ -23,6 +23,5 @@ neste repositório (fica só na máquina local de quem está aplicando o curso).
 
 ## Requisitos
 
-MySQL ou MariaDB. Veja as opções de instalação em
-[00_como_instalar.md](00_como_instalar.md) (XAMPP, MySQL Workbench, ou um
-site sem instalar nada, para testes rápidos).
+MySQL Server + MySQL Workbench. Veja o passo a passo completo de instalação
+em [00_como_instalar.md](00_como_instalar.md).
